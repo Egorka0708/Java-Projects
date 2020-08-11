@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Xonix">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Xonix.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
